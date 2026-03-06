@@ -1,0 +1,22 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Riot, Michigun, Etzer, weoweoteo, Vermillion, Evasium, Crack, Asonicmen"],
+    "verifier": "",
+    "verification": "https://youtu.be/twTw4fjT0ik",
+    "percentToQualify": "100",
+    "NLW Tier": "Very Hard",
+    "records": [
+        {
+            "user": "VillagerSpawn",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100
+        },
+        {
+            "user": "Pengwuin",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100
+        }
+    ]
+}
