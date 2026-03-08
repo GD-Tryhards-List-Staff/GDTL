@@ -3,13 +3,13 @@
     "name": "Crowd Control",
     "author": "Deadlox",
     "creators": ["Ka1ns, Endlevel, Deadlox, ewop, silver"],
-    "verifier": "FreerangeFalcon",
+    "verifier": "Fulcrin",
     "verification": "https://youtu.be/-q0iBUZti9s",
     "percentToQualify": "100",
     "NLW Tier": "Easy",
     "records": [
         {
-            "user": "Fulcrin",
+            "user": "FreerangeFalcon",
             "link": "",
             "percent": 100
         }
