@@ -1,0 +1,22 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Teno, Mrgm, ar12, Titoalper, KrazyGFX, BeClan, Asuith, Pedro, Blaze, Genoxide, peng"],
+    "verifier": "FreerangeFalcon",
+    "verification": "https://youtu.be/vegDZr7jh-M",
+    "percentToQualify": "100",
+    "NLW Tier": "Beginner",
+    "records": [
+        {
+            "user": "Fulcrin",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Pengwuin",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}

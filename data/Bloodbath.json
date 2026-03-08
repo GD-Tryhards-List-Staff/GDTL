@@ -4,18 +4,38 @@
     "author": "Riot",
     "creators": ["Riot, Michigun, Etzer, weoweoteo, Vermillion, Evasium, Crack, Asonicmen"],
     "verifier": "Talci",
-    "verification": "https://youtu.be/twTw4fjT0ik",
+    "verification": "https://youtu.be/nlxPIe0uv18?si=MYsRXGBefnZWAneN",
     "percentToQualify": "100",
     "NLW Tier": "Very Hard",
     "records": [
         {
-            "user": "VillagerSpawn",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "FreerangeFalcon",
+            "link": "https://youtu.be/U-vFtMnB8bk",
             "percent": 100
         },
         {
-            "user": "Pengwuin",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "VillagerSpawn",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Fulcrin",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "Charlie",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "ChooseyNine",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "schmuglbub",
+            "link": "",
             "percent": 100
         }
     ]
