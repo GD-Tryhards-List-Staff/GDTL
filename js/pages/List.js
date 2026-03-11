@@ -52,7 +52,7 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">NLW Tier</div>
-                            <p>{{ level.id }}</p>
+                            <p>{{ nlw.tier }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
