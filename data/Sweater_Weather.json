@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "NLW Tier": "Beginner",
     "records": [
+        {
+            "user": "Talci",
+            "link": "https://www.youtube.com/watch?v=bwOOtDiotP4",
+            "percent": 100
+        }
     ]
 }
