@@ -8,5 +8,25 @@
     "percentToQualify": "100",
     "NLW Tier": "Beginner",
     "records": [
+        {
+            "user": "FreerangeFalcon",
+            "link": "https://www.youtube.com/watch?v=3PFD5QwrqQw",
+            "percent": 100
+        },
+        {
+            "user": "Talci",
+            "link": "https://www.youtube.com/watch?v=3PFD5QwrqQw",
+            "percent": 100
+        },
+        {
+            "user": "Pengwuin",
+            "link": "https://www.youtube.com/watch?v=3PFD5QwrqQw",
+            "percent": 100
+        },
+        {
+            "user": "schmuglbub",
+            "link": "https://www.youtube.com/watch?v=3PFD5QwrqQw",
+            "percent": 100
+        }
     ]
 }

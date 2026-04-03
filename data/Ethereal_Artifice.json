@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "NLW Tier": "Extreme",
     "records": [
+        {
+            "user": "FreerangeFalcon",
+            "link": "",
+            "percent": 100
+        }
     ]
 }
