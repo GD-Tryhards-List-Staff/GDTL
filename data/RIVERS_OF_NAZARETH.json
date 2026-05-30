@@ -7,6 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=fy_zlZvt4Y8",
     "percentToQualify": "100",
     "NLW Tier": "Easy",
-    "records": [
+    "records": [ 
+        {
+            "user": "FreerangeFalcon",
+            "link": "https://www.youtube.com/watch?v=SlVBMBAkshI",
+            "percent": 100
+        }
     ]
 }
