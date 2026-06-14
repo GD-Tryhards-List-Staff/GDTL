@@ -11,13 +11,13 @@
         {
             "user": "offboard",
             "link": "https://youtu.be/XBhW0_tTsaE",
-            "percent": "100"
+            "percent": 100
 
         },
         {
             "user": "FreerangeFalcon",
             "link": "https://www.youtube.com/watch?v=j0hidzUenxw",
-            "percent": "100"
+            "percent": 100
         }
     ]
 }
