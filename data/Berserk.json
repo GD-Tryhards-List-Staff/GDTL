@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "NLW Tier": "Extreme",
     "records": [
+        {
+            "user": "Pengwuin",
+            "link": "https://www.youtube.com/watch?v=JcMhoMbHEQ4",
+            "percent": 100
+        }
     ]
 }
