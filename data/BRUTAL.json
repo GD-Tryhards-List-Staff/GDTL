@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "NLW Tier": "Beginner",
     "records": [
+        {
+          "user": "pengwuin",
+          "link": "https://youtu.be/F_ynfIrJBzA",
+          "percent": 100
+        }
     ]
 }
