@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "NLW Tier": "Medium",
     "records": [
+        {
+            "user": "Fulcrin",
+            "link": "",
+            "percent": 100
+        }
     ]
 }
