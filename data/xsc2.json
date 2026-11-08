@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "NLW Tier": "Very hard",
     "records": [
+        {
+            "user": "FreerangeFalcon",
+            "link": "https://www.youtube.com/watch?v=L3vY2TzkRYI",
+            "percent": 100
+        }
     ]
 }
