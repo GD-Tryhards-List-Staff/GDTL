@@ -3,18 +3,18 @@
     "name": "Blade of Justice",
     "author": "Manix648",
     "creators": ["LazerBlitz, Panman, Manix648"],
-    "verifier": "FreerangeFalcon",
-    "verification": "https://www.youtube.com/watch?v=0pmuufHtnaE",
+    "verifier": "VillagerSpawn",
+    "verification": "https://www.youtube.com/watch?v=DUZmzosSYX0",
     "percentToQualify": "100",
     "NLW Tier": "Very Hard",
     "records": [
         {
-            "user": "VillagerSpawn",
-            "link": "",
+            "user": "FreerangeFalcon",
+            "link": "https://www.youtube.com/watch?v=0pmuufHtnaE",
             "percent": 100
         },
         {
-            "user": "Pengwuin",
+            "user": "Pengwiun",
             "link": "",
             "percent": 100
         },
